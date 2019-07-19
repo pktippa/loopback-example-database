@@ -6,10 +6,10 @@
   "accountDS": {
     "name": "accountDS",
     "connector": "postgresql",
-    "host": "demo.strongloop.com",
+    "host": "localhost",
     "port": 5432,
-    "database": "demo",
-    "username": "demo",
-    "password": "L00pBack"
+    "database": "test_db_2",
+    "username": "postgres",
+    "password": "postgres"
   }
 }
